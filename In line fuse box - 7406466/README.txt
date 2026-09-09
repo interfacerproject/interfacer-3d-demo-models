@@ -1,0 +1,4 @@
+In line fuse box by Cascao on Thingiverse: https://www.thingiverse.com/thing:7406466
+
+Summary:
+Fuse box for one automotive fuse. (regular ATO  19.1 × 5.1 × 18.5 mm blade)Box print in place with hinges. Small fast print.There are two version of thisbox:Fusebox bolt: This one is the box to be used alone. There are two fixing holes.Fusebox: This one do not have fixing holes because main purpose is to be used with TPU cover [fusebox cover.stl] who has the fixing holes. Do not print with Carbon fiber filaments [conductive] and avoid PLA due low melting point.Fuse fitment is very tight. Some fuses are slighty bigger than others. If needed, adjust scale on slicer.
